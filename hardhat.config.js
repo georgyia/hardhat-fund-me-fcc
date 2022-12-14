@@ -33,6 +33,7 @@ module.exports = {
             blockConfirmations: 6,
         },
     },
+    // different versions
     solidity: {
         compilers: [
             {
